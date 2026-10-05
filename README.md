@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00356B,100:0F766E&amp;height=180&amp;text=JEET%20PARIKH&amp;fontSize=48&amp;fontColor=ffffff&amp;desc=Yale%20EECS%20%7C%20Software%20%26%20AI&amp;descSize=18&amp;descAlignY=72" width="100%" alt="Jeet Parikh — Yale EECS, Software and AI" />
+  <img src="./assets/header.svg" width="100%" alt="Jeet Parikh — Yale EECS, Software and AI" />
 </p>
 
 <p align="center">
