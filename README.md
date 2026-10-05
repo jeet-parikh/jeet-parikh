@@ -60,21 +60,17 @@ I'm studying **Electrical Engineering & Computer Science at Yale**. I enjoy taki
 
 ## 🛠️ My toolkit
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,swift,react,fastapi,firebase,tensorflow,tailwind&amp;theme=dark&amp;perline=9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,swift,react,fastapi,firebase,tensorflow,tailwind&amp;theme=light&amp;perline=9" />
-  <img src="https://skillicons.dev/icons?i=python,ts,js,swift,react,fastapi,firebase,tensorflow,tailwind&amp;theme=light&amp;perline=9" alt="Python, TypeScript, JavaScript, Swift, React, FastAPI, Firebase, TensorFlow, and Tailwind CSS" />
-</picture>
+<img src="https://skillicons.dev/icons?i=python,ts,js,swift,react,fastapi,firebase,tensorflow,tailwind&amp;theme=dark&amp;perline=9" alt="Python, TypeScript, JavaScript, Swift, React, FastAPI, Firebase, TensorFlow, and Tailwind CSS" />
 
-## 📈 Recent activity
+## 📈 On GitHub
 
-<a href="https://github.com/jeet-parikh?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeet-parikh&amp;bg_color=0d1117&amp;color=94a3b8&amp;line=2dd4bf&amp;point=5eead4&amp;area=true&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeet-parikh&amp;bg_color=ffffff&amp;color=334155&amp;line=0f766e&amp;point=00356b&amp;area=true&amp;hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeet-parikh&amp;bg_color=ffffff&amp;color=334155&amp;line=0f766e&amp;point=00356b&amp;area=true&amp;hide_border=true" width="100%" alt="Jeet's GitHub contribution activity over the last 31 days" />
-  </picture>
-</a>
+<p>
+  <a href="https://github.com/jeet-parikh?tab=followers"><img src="https://img.shields.io/github/followers/jeet-parikh?style=for-the-badge&amp;label=Followers&amp;color=0F766E" alt="GitHub followers" /></a>
+  <a href="https://github.com/YaleComputerSociety/ymeets"><img src="https://img.shields.io/github/stars/YaleComputerSociety/ymeets?style=for-the-badge&amp;label=ymeets%20stars&amp;color=00356B" alt="ymeets GitHub stars" /></a>
+  <a href="https://github.com/jeet-parikh/DeepDoc"><img src="https://img.shields.io/github/last-commit/jeet-parikh/DeepDoc?style=for-the-badge&amp;label=DeepDoc%20updated&amp;color=0F766E" alt="DeepDoc latest commit date" /></a>
+</p>
+
+[Explore my contributions and recent activity ↗](https://github.com/jeet-parikh?tab=overview)
 
 ---
 
